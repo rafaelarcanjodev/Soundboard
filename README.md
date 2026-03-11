@@ -1,4 +1,4 @@
-# 🔊 Sonoplastia | Instant Audio Trigger System
+# 🔊 Soundboard | Instant Audio Trigger System
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ A high-performance **Digital Soundboard** designed to enhance the dynamics of li
 ## 🔗 Live Demo
 
 Experience the soundboard in action:  
-👉 [**Sonoplastia Live Preview**](https://rafaelarcanjodev.github.io/Sonoplastia/)
+👉 [**Sonoplastia Live Preview**](https://rafaelarcanjodev.github.io/Soundboard/)
 
 ---
 
