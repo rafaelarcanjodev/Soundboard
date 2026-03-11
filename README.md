@@ -25,7 +25,7 @@ A high-performance **Digital Soundboard** designed to enhance the dynamics of li
 ## 🔗 Live Demo
 
 Experience the soundboard in action:  
-👉 [**Sonoplastia Live Preview**](https://rafaelarcanjodev.github.io/Soundboard/)
+👉 [**Soundboard Live Preview**](https://rafaelarcanjodev.github.io/Soundboard/)
 
 ---
 
